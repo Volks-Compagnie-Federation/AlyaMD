@@ -20,12 +20,12 @@ year: 'numeric'
 })
 //TIME
 global.waktu = `${date}`
-global.namabot = '⫹⫺ .KelzBotz'
+global.namabot = '⫹⫺ .AlyaBotz'
 global.v = '-'   
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 // Sticker WM
-global.packname = `KelzTamvan`
+global.packname = `AlyaMD`
 global.author = `© 𝟸𝟶𝟸𝟷 - 𝟸𝟶𝟸𝟹`
 global.premnsfw = true
 /* ===========Hiasan=========== */
@@ -51,18 +51,18 @@ global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
 //--------[WATERMARK]
-global.wm = '.KELZTAMVANー 汉 」' //Main WM
+global.wm = '.AlyaMDー 汉 」' //Main WM
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ .KelzBotz.'
-global.md = 'KELZTAMVAN‌'
+global.wm3 = '⫹⫺ .AlyaBotz.'
+global.md = 'AlyaMd'
 //-----[OWNER]
-global.nomorown = '6287787411704'
+global.nomorown = '6287756593163'
 global.owner = [
-['6287787411704'], // global owner 0
-['6287787411704'], // global owner 1
-['6287787411704'], // global owner 2
-['6287787411704', '.KELZOFFICIAL', true],
-['6287787411704']// global owner 3
+['6287756593163'], // global owner 0
+['6287756593163'], // global owner 1
+['6287756593163'], // global owner 2
+['6287756593163', 'Ren', true],
+['6287756593163']// global owner 3
 ]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -131,7 +131,7 @@ global.multiplier = 69 // The higher, The harder levelup
 global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 global.htjava = '⫹⫺' 
-global.fgig = '▢ KelzTamvan'
+global.fgig = '▢ Ren'
 global.docs = [
     'application/pdf',
     'application/msword',
