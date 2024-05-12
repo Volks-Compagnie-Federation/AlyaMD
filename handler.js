@@ -1210,7 +1210,7 @@ export async function handler(chatUpdate) {
                     m.exp += xp
                 if (!isPrems && plugin.limit && global.db.data.users[m.sender].limit < plugin.limit * 1) {
                     this.sendMessage(m.chat, {
-                        text: `[❗] *Limit Anda Habis, Beberapa Command Tidak Bisa Di Akses*`,
+                        text: `[❗] *Limit Anda Habis Sementara, Beberapa Command Tidak Bisa Di Akses*`,
                         mentions: [m.sender]
                     }, {
                         quoted: m
